@@ -1,0 +1,14 @@
+{
+	"name": "Tethys - Test repository",
+	"codeName": "tethys",
+	"description": "Test repository for ccpm",
+	"packageFetchUrl": "https://raw.githubusercontent.com/emil1003/ccpm-tethys/master/packages/$name/install.lua",
+	"packages": [
+		{
+			"name": "ccpm",
+			"version": "0.0.1",
+			"versionName": "0.0.1-g99aabea",
+			"description": "Extensible package manager for ComputerCraft"
+		}
+	]
+}
