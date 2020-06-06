@@ -6,8 +6,8 @@
 	"packages": [
 		{
 			"name": "ccpm",
-			"version": "0.0.1",
-			"versionName": "0.0.1-g99aabea",
+			"version": "0.011",
+			"versionName": "0.0.1-gb6fa6f9",
 			"description": "Extensible package manager for ComputerCraft"
 		}
 	]
